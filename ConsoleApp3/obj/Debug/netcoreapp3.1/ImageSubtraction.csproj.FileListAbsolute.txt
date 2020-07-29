@@ -1,0 +1,17 @@
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\ImageSubtraction.exe
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\ImageSubtraction.deps.json
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\ImageSubtraction.runtimeconfig.json
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\ImageSubtraction.runtimeconfig.dev.json
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\ImageSubtraction.dll
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\ImageSubtraction.pdb
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\opt\ImageSubtration\ConsoleApp3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\opt\ImageSubtration\ConsoleApp3\obj\Debug\netcoreapp3.1\ImageSubtraction.AssemblyInfoInputs.cache
+C:\opt\ImageSubtration\ConsoleApp3\obj\Debug\netcoreapp3.1\ImageSubtraction.AssemblyInfo.cs
+C:\opt\ImageSubtration\ConsoleApp3\obj\Debug\netcoreapp3.1\ImageSubtraction.csproj.CopyComplete
+C:\opt\ImageSubtration\ConsoleApp3\obj\Debug\netcoreapp3.1\ImageSubtraction.dll
+C:\opt\ImageSubtration\ConsoleApp3\obj\Debug\netcoreapp3.1\ImageSubtraction.pdb
+C:\opt\ImageSubtration\ConsoleApp3\obj\Debug\netcoreapp3.1\ImageSubtraction.genruntimeconfig.cache
